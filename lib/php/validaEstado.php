@@ -21,7 +21,7 @@ function validaEstado(false|string $estado)
   throw new ProblemDetails(
    status: BAD_REQUEST,
    title: "Estado en blanco.",
-   type: "/error/estadoenblanco.html",
+   type: "/error/estadoVacio.html",
    detail: "Pon texto en el campo estado.",
   );
 

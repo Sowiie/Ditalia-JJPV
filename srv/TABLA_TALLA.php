@@ -1,7 +1,0 @@
-<?php
-
-const TALLA = "TALLA";
-const TALL_ID = "TALL_ID";
-const TALL_NOMBRE = "TALL_NOMBRE";
-const TALL_DESCRIPCION = "TALL_DESCRIPCION";
-const TALL_ESTADO = "TALL_ESTADO";
